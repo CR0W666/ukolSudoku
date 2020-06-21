@@ -1,0 +1,21 @@
+
+
+#playspace {
+  display:flex;
+  justify-content: center;
+}
+#boardDiv {
+  -ms-transform: translateY(50%);
+  transform: translateY(50%);
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+table {
+  border: 4px solid black;
+}
+
+input[type="text"] {
+  background-color: #4CAF50;
+}
